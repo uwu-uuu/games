@@ -6,6 +6,6 @@ lol - https://ntc.party/t/goodcheck-%D0%B1%D0%BB%D0%BE%D0%BA%D1%87%D0%B5%D0%BA-%
 
 iracing - не сохранилось
 
-archerage - --filter-tcp=1237 --ipset=135.125.78.160/27 --dpi-desync=multisplit --dpi-desync-split-seqovl=1 --dpi-desync-any-protocol=1 --dpi-desync-cutoff=d2
+archerage - ```--filter-tcp=1237 --ipset=135.125.78.160/27 --dpi-desync=multisplit --dpi-desync-split-seqovl=1 --dpi-desync-any-protocol=1 --dpi-desync-cutoff=d2```
 
 настройки были актуальны на момент проверки (публикации)
