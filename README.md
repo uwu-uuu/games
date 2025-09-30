@@ -8,4 +8,4 @@ iracing - не сохранилось
 
 archerage - --filter-tcp=1237 --ipset=135.125.78.160/27 --dpi-desync=multisplit --dpi-desync-split-seqovl=1 --dpi-desync-any-protocol=1 --dpi-desync-cutoff=d2
 
-настройки были актуальны на момент проверки
+настройки были актуальны на момент проверки (публикации)
