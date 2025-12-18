@@ -2,6 +2,8 @@
 
 guild wars 2 -  https://github.com/uwu-uuu/games/issues/2#issuecomment-3666001818 / / / [zapret_gw2.zip](https://github.com/user-attachments/files/24226173/zapret_gw2.zip)       
 
+перед запуском нужно выполнить в cmd ```netsh interface tcp set global timestamps=enabled``` и убедиться, что в ярлыке нет нестандартных настроек соединения
+
 gw2_6112.cmd - вход в локацию
 
 gw2_6112_443.cmd - вход в локацию+лаунчер+аукцион
