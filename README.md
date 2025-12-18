@@ -1,8 +1,6 @@
 ранее были настроены gw2,lol(eun),iracing,archerage
 
-gw2 -  https://github.com/uwu-uuu/games/issues/2#issuecomment-3666001818
-
- [zapret_gw2.zip](https://github.com/user-attachments/files/24226173/zapret_gw2.zip)       
+gw2 -  https://github.com/uwu-uuu/games/issues/2#issuecomment-3666001818 / / / [zapret_gw2.zip](https://github.com/user-attachments/files/24226173/zapret_gw2.zip)       
 
 gw2_6112.cmd - вход в локацию
 
