@@ -1,4 +1,4 @@
-**guild wars 2** -  https://github.com/uwu-uuu/games/issues/1#issuecomment-3693902900 / / / [zapret_gw2.zip](https://github.com/user-attachments/files/24354242/zapret_gw2.zip)  обновлено
+**guild wars 2** -  https://github.com/uwu-uuu/games/issues/1#issuecomment-3693902900 / / / [zapret_gw2.zip](https://github.com/user-attachments/files/24354242/zapret_gw2.zip)  *обновлено*
 
 
 
