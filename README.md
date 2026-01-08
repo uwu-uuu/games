@@ -1,3 +1,4 @@
+
 **guild wars 2** -  https://github.com/uwu-uuu/games/issues/1#issuecomment-3697620129 / / / [zapret_gw2.zip](https://github.com/user-attachments/files/24374878/zapret_gw2.zip)  *обновлено 30.12*
 
 
@@ -18,3 +19,5 @@ snowbreak_v1_1.cmd           ; исправление ошибки "опреде
 ```
 
 *также принимаются запросы и на другие игры* 
+
+инструкция по wireshark https://github.com/uwu-uuu/games/wiki/%D0%9A%D0%B0%D0%BA-%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-%D0%BB%D0%BE%D0%B3-wireshark
