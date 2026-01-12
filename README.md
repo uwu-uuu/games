@@ -1,5 +1,5 @@
 
-**guild wars 2** -  https://github.com/uwu-uuu/games/issues/1#issuecomment-3697620129 / / / [zapret_gw2.zip](https://github.com/user-attachments/files/24374878/zapret_gw2.zip) / / / pastebin-версия: https://pastebin.com/7n3BH043 *обновлено 30.12*
+**guild wars 2** -  https://github.com/uwu-uuu/games/issues/1#issuecomment-3697620129 / / / [zapret_gw2.zip](https://github.com/user-attachments/files/24374878/zapret_gw2.zip) / / / pastebin-версия: https://pastebin.com/pt778hQy *обновлено 30.12*
 
 
 перед запуском нужно выполнить в **cmd** ```netsh interface tcp set global timestamps=enabled``` и убедиться, что в ярлыке игры **нет** нестандартных настроек соединения [(wiki.guildwars2)](https://wiki.guildwars2.com/wiki/Command_line_arguments)
