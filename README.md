@@ -22,6 +22,6 @@ snowbreak_v1_1.cmd           ; исправление ошибки "опреде
 
 команда timestamps=enabled выполняется 1 раз, для последующих запусков zapret это не требуется
 
-как сделать лог wireshark https://github.com/uwu-uuu/games/wiki/%D0%9A%D0%B0%D0%BA-%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-%D0%BB%D0%BE%D0%B3-wireshark
+инструкции: https://github.com/uwu-uuu/games/wiki
 
 оригинальный инструментарий https://github.com/bol-van/zapret
